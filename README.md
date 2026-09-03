@@ -52,3 +52,13 @@ Setiap pekerjaan dikumpulkan dalam folder pertemuan terkait dan minimal memuat:
 - pseudocode;
 - program Python;
 - bukti pengujian dan kesimpulan.
+
+
+
+
+## Commit
+```bash
+git add README.md Modul-1/
+git commit -m "Add Modul 1 matematika diskrit"
+git push origin main
+```
