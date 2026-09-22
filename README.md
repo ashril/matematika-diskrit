@@ -17,17 +17,10 @@ Setelah menyelesaikan modul, mahasiswa mampu:
 - memodelkan masalah seleksi menggunakan logika dan himpunan;
 - menulis, menguji, dan mendokumentasikan program Python sederhana.
 
-## Daftar Pertemuan
-
-1. [Pertemuan 1 — Pengantar Matematika Diskrit dan Logika Proposisional](Pertemuan1.md)
-2. [Pertemuan 2 — Tabel Kebenaran dan Logika Predikat](Pertemuan2.md)
-3. [Pertemuan 3 — Teori Himpunan dan Operasi Himpunan](Pertemuan3.md)
-4. [Pertemuan 4 — Asesmen Modul 1](Pertemuan4.md)
-
 ## Prasyarat dan Perangkat
 
 - Python 3.10 atau lebih baru
-- editor kode atau Jupyter Notebook
+- VSCode
 - terminal untuk menjalankan program
 
 Verifikasi instalasi:
@@ -58,7 +51,7 @@ Setiap pekerjaan dikumpulkan dalam folder pertemuan terkait dan minimal memuat:
 
 ## Commit
 ```bash
-git add README.md Modul-1/
-git commit -m "Add Modul 1 matematika diskrit"
+git add README.md Modul-x/
+git commit -m "Add Modul x matematika diskrit"
 git push origin main
 ```
